@@ -1,3 +1,5 @@
+Note:- I used NodeJS, ExpressJS, and MongoDB
+
 Overview:
 The Daily Expenses Sharing Application is a backend system designed to manage and share daily expenses among users. It allows users to add expenses and split them using three different methods: equal amounts, exact amounts, and percentages. The application also manages user details, validates inputs, and generates downloadable balance sheets.
 
