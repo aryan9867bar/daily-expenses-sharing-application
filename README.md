@@ -29,7 +29,7 @@ daily-expenses-sharing-Application/
 ## Setup and Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/daily-expenses-sharing.git
+   git clone https://github.com/aryan9867bar/daily-expenses-sharing-application.git
    cd daily-expenses-sharing
 
 2. Install dependencies:
